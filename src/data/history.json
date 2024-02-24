@@ -1,0 +1,29 @@
+[
+  {
+    "role": "React Project",
+    "organisation": "Self",
+    "startDate": "Sept",
+    "endDate": "Present",
+    "experiences": ["Worked on Social Media clone", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Self",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Design The web UI"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "JavaScript",
+    "organisation": "Self",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/google.png"
+  }
+]

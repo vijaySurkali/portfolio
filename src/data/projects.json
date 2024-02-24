@@ -1,0 +1,42 @@
+[
+  {
+    "title": "E-LIBRARY",
+    "imageSrc": "projects/project.png",
+    "description": "Developed web application that can help students in their semester examination.It contains subjects Notes, previous year question paper, assignments etc",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "ONLINE RESUME GENERATOR",
+    "imageSrc": "projects/project.png",
+    "description": "Developed web application that can help students to build their resume.",
+    "skills": ["CSS", "JAVASCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "JOB DETECTION BY CV ANALYSING BY ML",
+    "imageSrc": "projects/project.png",
+    "description": "Provides the better job preference matching to your resume.",
+    "skills": ["Python", "KNN", "Flask"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SPAM DETECTION",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly wensite for spam detection, accurately classifying message as spam or not.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SOCIAL MEDIA APP",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly social mdia application through which user can post their video photo and also anble to chat with others.",
+    "skills": ["React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
